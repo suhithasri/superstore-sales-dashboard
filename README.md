@@ -3,6 +3,9 @@
 ## Project Overview
 An interactive sales dashboard created using Excel and the Superstore Sales dataset to analyze sales performance and trends.
 
+## Dashboard Preview
+![Superstore Sales Dashboard](dashboard-preview.png)
+
 ## Features
 - Total Sales KPI
 - Total Records
